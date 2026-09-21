@@ -1,2 +1,2 @@
 # Respository-2
-LAB_ACT2
+Lab Activity 2
